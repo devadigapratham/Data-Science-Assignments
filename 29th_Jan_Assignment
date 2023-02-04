@@ -1,0 +1,18 @@
+Solutions to the questions : 
+
+1. Guido van Rossum
+2.Object-oriented programming and structured programming are fully supported, and many of their features support functional programming and aspect-oriented programming (including metaprogramming and metaobjects).
+3. Yes, python is case sensitive. 
+4. Extension for python file : ".py"
+5. Python code is intepreted. 
+6.The following are blocks: a module, a function body, and a class definition
+7. To give single line comments we use : # symbol 
+8. sys.version can help us find out which version of python we are using
+9. Lambda functions 
+10. preferred installer program
+11. chr(), list(), dict(), sum()
+12. 79 characters
+13. Python is easy to learn, versatile, has multiple libraries which is useful for all cases taking from web development to machine learning 
+14.Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
+15. Python can be installed by downloading it in official website of python. Then to set path we follow these steps : Right-clicking This PC and going to Properties, Clicking on the Advanced system settings in the menu on the left,Clicking on the Environment Variables button o​n the bottom right,In the System variables section, selecting the Path variable and clicking on Edit.
+16. Indentation is necessary when we write code under function definition, if-else conditions, loops , wtc
